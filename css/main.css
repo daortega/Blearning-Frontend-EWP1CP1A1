@@ -1,3 +1,37 @@
-body {
-  background-color: rgba(250, 250, 0, 0.3);
+.nav_latam{
+  background-color: rgba(255, 0, 0, 0);
+  position: fixed;
+  padding: 2em;
+  width: 100%;
+  top: 30px;
+}
+.jumbotron {
+  background-image: url(../img/3.jpg);
+  background-size: cover;
+  padding: 15em 10em;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  padding: 0;
+}
+h2.encabezado_titulo{
+  text-transform: uppercase;
+  color: #333;
+  font-size: 3em;
+}
+
+p.encabezado_bajada{
+  font-size: 1em;
+  width: 800px;
+  margin: 3em auto;
+}
+
+.container{
+  margin-top: 5em;
+  text-align: center;
+}
+
+.footer_titulo{
+
 }
